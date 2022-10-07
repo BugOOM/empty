@@ -1,2 +1,6 @@
 hello world i'm first
+<<<<<<< HEAD
 another user changed edit by 1794 again
+=======
+another user changed edit by 17941111
+>>>>>>> fe72488f8a9ae4106466f063a40a1ecb3f2ea216
